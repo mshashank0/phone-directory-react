@@ -1,3 +1,3 @@
-ReactJS
-HTML
+ReactJS,
+HTML,
 CSS
